@@ -1,5 +1,5 @@
 
-# Shuvter
+# Commerce
 
 Commerce is an e-commerce platform for cars, built using Django. It provides a seamless and user-friendly interface for users to browse, search, and purchase cars online. This project demonstrates the use of Django for building scalable and efficient web applications with features tailored for the automotive market.
 
